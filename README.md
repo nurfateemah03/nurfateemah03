@@ -1,5 +1,5 @@
 
-![Nurs GithubTING2 pdf](https://github.com/nurfateemah03/nurfateemah03/assets/83512271/a37eee66-8808-4cc6-bc09-a7c306505d5b)
+![Nurs GithubTING12 pdf](https://github.com/nurfateemah03/nurfateemah03/assets/83512271/2c892932-a7e2-4a79-b08e-db5af8014b93)
 
 
 ## ✍🏻 Languages and Tools 
