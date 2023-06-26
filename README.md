@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Nur](fateemah03.github.io/portfolio/)
+# Hi there 👋 I'm [Nur](nurfateemah03.github.io/portfolio/)
 
 
 I am a rising junior studying Computer Science at WPI (Worcester Polytechnic Institute). With a strong foundation in programming, I am proficient in Java and Python, as well as various aspects of web development, including front-end and back-end technologies. My skills extend to full-stack development, allowing me to work on projects from end to end.
