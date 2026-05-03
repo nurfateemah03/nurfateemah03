@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Nur <br>Computer science graduate from WPI 🎓<br>Interested in cybersecurity 🔐, OSINT 🕵️‍♀️, and real-world problem solving<br>Experience in game development 🎮, cloud systems ☁️, and blockchain ⛓️<br>Focused on security, threat intelligence, and data-driven insights 📊<br>Enjoy building tools, exploring vulnerabilities, and breaking down complex systems 🛠️<br>Looking for roles that are technical, analytical, and investigative 🚀
+# 🎋Hi, I'm Nur:
+<br>Computer science graduate from WPI 🎓<br>Interested in cybersecurity 🔐, OSINT 🕵️‍♀️, and real-world problem solving<br>Experience in game development 🎮, cloud systems ☁️, and blockchain ⛓️<br>Focused on security, threat intelligence, and data-driven insights 📊<br>Enjoy building tools, exploring vulnerabilities, and breaking down complex systems 🛠️<br>Looking for roles that are technical, analytical, and investigative 🚀
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Hi, I’m Nur <br>Computer science graduate from WPI 🎓<br>Interested in cyber
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nurfateemah03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 🎀Quotes I love
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
